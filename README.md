@@ -95,3 +95,4 @@ Doug Harmon has his own [Vertica SQL Toolbelt](https://github.com/DougHarmon/v-s
 The unofficial [Vertica forums](http://www.vertica-forums.com) have Vertica professionals helping the Vertica community.
 
 [vertica.tips](http://www.vertica.tips) is a blog with authors from the community sharing expert knowledge as well as a site for valuable materials, videos, news, and training.
+you can find some practice fron http://blog.csdn.net/column/details/vertica.html
